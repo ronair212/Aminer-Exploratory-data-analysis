@@ -1,0 +1,3 @@
+# Aminer-Exploratory-data-analysis
+
+Aminer is a popular dataset in the field of academic literature and scientific research. It is a large collection of bibliographic data and metadata about papers, authors, and venues in the computer science domain. The dataset is often used for tasks such as citation network analysis, author network analysis, venue analysis, and publication trend analysis. It is a valuable resource for researchers and data scientists interested in exploring and understanding the trends, patterns, and relationships in the academic literature of computer science. Aminer is one of the largest and most comprehensive datasets available in this domain and provides a rich source of information for further analysis and research.
